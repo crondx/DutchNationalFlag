@@ -15,6 +15,7 @@ public class DutchNationalFlag {
 				break;
 			case 2:
 				DutchNationalFlag.swap(array, mid, high--);
+				break;
 			}
 		}
 	}
